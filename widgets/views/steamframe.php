@@ -15,7 +15,7 @@ use humhub\models\Setting;
   <div class="panel-body">
 
 <?= Html::beginTag('div') ?>
-<iframe src="<?= $steamUrl; ?>" frameborder="0" width="646" height="190"></iframe>
+<iframe src="<?= $steamUrl; ?>" frameborder="0" width="100%" height="190"></iframe>
 <?= Html::endTag('div'); ?>
 
 </div>
