@@ -1,0 +1,11 @@
+{
+    "id": "steam",
+    "name": "Steam",
+    "description": "Adds Steam widget to HumHub`s website.",
+    "keywords": ["steam","widget"],
+    "version": "1.0.0",
+    "humhub": {
+    "minVersion": "1.0"
+    },
+    "screenshots": ["assets/Screenshot_1.png", "assets/Screenshot_2.png"]
+}
