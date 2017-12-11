@@ -2,7 +2,7 @@
 
 ## [HumHub](https://www.humhub.org/en) Steam Module
 
-Adds a sidebar widget to the Dashboard.
+This module adds the ability to display a single game widget from your Steam game developer account.
 
 ## Installing & Setup
 1. Download via git or normal download.
