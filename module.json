@@ -3,7 +3,7 @@
     "name": "Steam",
     "description": "Adds Steam widget to HumHub`s website.",
     "keywords": ["steam","widget"],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "humhub": {
     "minVersion": "1.0"
     },
