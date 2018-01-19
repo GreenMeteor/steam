@@ -15,7 +15,7 @@ class Events extends \yii\base\Object
             'label' => Yii::t('SteamModule.base', 'Steam Settings'),
             'url' => Url::toRoute('/steam/admin/index'),
             'group' => 'settings',
-            'icon' => '<i class="fa fa-steam"></i>',
+            'icon' => '<i class="fab fa-steam"></i>',
             'isActive' => Yii::$app->controller->module && Yii::$app->controller->module->id == 'steam' && Yii::$app->controller->id == 'admin',
             'sortOrder' => 650
         ]);
