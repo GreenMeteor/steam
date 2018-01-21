@@ -1,9 +1,9 @@
 {
     "id": "steam",
     "name": "Steam",
-    "description": "Adds Steam widget to HumHub`s website.",
+    "description": "This module adds the ability to display a single game widget from your Steam game developer account.",
     "keywords": ["steam","widget"],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "humhub": {
     "minVersion": "1.0"
     },
