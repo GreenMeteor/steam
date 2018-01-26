@@ -21,7 +21,7 @@ class Module extends \humhub\components\Module
     {
         $url = $this->settings->get('serverUrl');
         if (empty($url)) {
-            return 'http://store.steampowered.com';
+            return 'https://store.steampowered.com';
         }
         return $url;
     }
