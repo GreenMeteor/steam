@@ -2,6 +2,8 @@
 
 ## [HumHub](https://www.humhub.org/en) Steam Module
 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GreenMeteor/humhub-steam-module/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GreenMeteor/humhub-steam-module/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/GreenMeteor/humhub-steam-module/badges/build.png?b=master)](https://scrutinizer-ci.com/g/GreenMeteor/humhub-steam-module/build-status/master)
+
 This module adds the ability to display a single game widget from your Steam game developer account.
 
 ## Installing & Setup
