@@ -3,9 +3,9 @@
     "name": "Steam",
     "description": "This module adds the ability to display a single game widget from your Steam game developer account.",
     "keywords": ["steam","widget"],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "humhub": {
-    "minVersion": "1.0"
+    "minVersion": "1.2"
     },
     "screenshots": ["assets/Screenshot_1.png", "assets/Screenshot_2.png"]
 }
