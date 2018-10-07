@@ -26,8 +26,8 @@ public static function addSteamFrame($event)
         if (Yii::$app->user->isGuest) {
             return;
         }
-        $event->sender->view->registerAssetBundle(Assets::className());
-        $event->sender->addWidget(SteamFrame::className(), [], [
+        $event->sender->view->registerAssetBundle(Assets::class);
+        $event->sender->addWidget(SteamFrame::class, [], [
             'sortOrder' => Setting::Get('timeout', 'steam')
         ]);
     }
